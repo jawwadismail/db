@@ -1,0 +1,56 @@
+.theory{
+	width: 100%;
+	height: 300px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	
+}
+
+.theorydiv{
+	width: 100%;
+	height: 50px;
+}
+
+h5{
+	color: white;
+}
+
+.twodiv{
+	width: 60%;
+	height: 300px;
+	float: left;
+    background-color: darkgreen;
+  }
+
+.imagediv{
+    width: 40%;
+    height: 300px;
+    float: left;
+}
+.imagestyle{
+	height: 300px;
+	border-left: 1px solid white;
+}
+
+.belownav{
+	width: 56%;
+	height: 200px;
+	float: left;
+}
+
+.belownav1{
+    width: 30%;
+    height: 160px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 1px;
+}
+
+.heading{
+	background-color: darkgreen;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	margin-top: 0px;
+	height: 50px;
+}
+

@@ -1,0 +1,82 @@
+.footer{
+	width: 100%;
+	height: 150px;
+	margin-top: 0px;
+	background-color: #333;
+}
+
+.footer1{
+    width: 100%;
+	height: 320px;
+	border-top: 1px solid white;
+	background-color: #333;
+}
+
+.infirstfooter{
+	width: 30.5%;
+	height: 90px;
+	float: left;
+	margin-left:12px;
+	margin-right: 12px;
+	margin-top: 35px;
+	padding-right: 4.5%;
+	padding-left: 4.5%;
+}
+
+.insidecontent{
+	text-align: center;
+	font-size: 25px;
+	padding-top: 20px;
+	color: white;
+}
+
+.follow{
+	width: 100%;
+	height: 25px;
+	margin-top: 1px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+}
+
+.socialsites{
+    width: 32%;
+    margin-left: 2.5px;
+    margin-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+	float: left;
+}
+
+.socialsitesdownload{
+	width: 32%;
+	padding-left: 110px;
+}
+
+.insidefooter1{
+	width: 29.333%;
+	height: 280px;
+	float: left;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.tablediv{
+	width: 40%;
+	height: 200px;
+	margin-left: 130px;
+
+}
+
+.tablestyle{
+	color: white;
+	font-size: 19px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+
+.linkcolor{
+	color: white;
+}
