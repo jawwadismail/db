@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> <!-- and there was a time  -->1
   <title>Gold Loan</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="homeloan.css"> 
   
 </head>
-<body>
+<body> 
 
 
   <nav class="navbar navbar-inverse">
@@ -67,7 +67,7 @@ function closeNav() {
   </div>
   
   <div class="bg">
-      <form>
+      <form action="goldloan1.php" method="post">
       <div class="loandetails">
         <div class="form-group">
     <label><h5 class="labelclass">Nationality</h5></label>

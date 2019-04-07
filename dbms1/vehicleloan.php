@@ -67,7 +67,7 @@ function closeNav() {
   </div>
   
   <div class="bg">
-      <form>
+      <form action="vehicleloan1.php" method="post">
       <div class="loandetails">
         <div class="form-group">
     <label><h5 class="labelclass">Nationality</h5></label>
@@ -89,7 +89,7 @@ function closeNav() {
 
 <div class="form-group">
     <label><h5  class="labelclass">Annual Income</h5></label>
-    <input type="Number" class="form-control" placeholder="Example : 600000/etc" name="text2">
+    <input type="Number" class="form-control" placeholder="Example : 600000/etc" name="text3">
   </div>
 
       </div>
@@ -104,13 +104,13 @@ function closeNav() {
 
   <div class="form-group">
     <label><h5  class="labelclass">Interest Rate</h5></label>
-    <input type="Number" class="form-control" placeholder="Example : 14%/etc" name="text5">
+    <input type="text" class="form-control" placeholder="Example : 14%/etc" name="text5">
   </div>
 
 
   <div class="form-group">
     <label><h5  class="labelclass">Number Of Continous Employement Years</h5></label>
-    <input type="Number" class="form-control" placeholder="Example : 1/2/etc" name="text5">
+    <input type="Number" class="form-control" placeholder="Example : 1/2/etc" name="text6">
   </div>
 
       </div>
