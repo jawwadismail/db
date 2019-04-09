@@ -67,7 +67,7 @@ function closeNav() {
   </div>
   
   <div class="bg">
-      <form>
+      <form action="businessloan1.php" method="post">
       <div class="loandetails">
         <div class="form-group">
     <label><h5 class="labelclass">Nationality</h5></label>
@@ -102,16 +102,16 @@ function closeNav() {
 
   <div class="form-group">
     <label for="exampleInputPassword1"><h5 class="labelclass">Number of Profitable Years</h5></label>
-    <input type="Number" class="form-control" id="exampleInputPassword1" placeholder="Example : 1/2/etc" name="text6">
+    <input type="Number" class="form-control" id="exampleInputPassword1" placeholder="Example : 1/2/etc" name="text5">
   </div>
 
   <div class="form-group">
     <label><h5 class="labelclass">Interest rate</h5></label>
-    <input type="Number" class="form-control" placeholder="Example : 14%/15%/etc" name="text7">
+    <input type="Number" class="form-control" placeholder="Example : 14%/15%/etc" name="text6">
   </div>
       </div>
  
-    <div>  <button type="submit" class="btn btn-success" style="margin-left: 20px;width: 200px;">Submit</button>
+    <div>  <input type="submit" name="submit" value="submit" class="btn btn-success" style="margin-left: 20px;width: 200px;"></input>
 </div>
 
     </form>
