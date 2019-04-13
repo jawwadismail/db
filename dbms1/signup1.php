@@ -16,7 +16,7 @@
 		echo "succesful  con";
 	else
 		echo "unces con";
-	$sql4 = "INSERT into student (fullname,mobile,city,password,password1) values('$fullname',$mobile,'$city','$password','password1')"; 
+	$sql4 = "INSERT into signup (fullname,mobile,city,password,password1) values('$fullname',$mobile,'$city','$password','password1')"; 
 	$query = mysqli_query($con,$sql4);
 
 	if($query)
